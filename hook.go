@@ -8,7 +8,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/olivere/elastic"
+	"github.com/olivere/elastic/v6"
 )
 
 var (
